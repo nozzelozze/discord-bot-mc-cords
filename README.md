@@ -1,5 +1,5 @@
 # CordSaver
-Saves minecraft coordinates in your discord server in an handy and simple way.
+Saves minecraft coordinates in your discord server in a handy and simple way.
 
 # Features
 
