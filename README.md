@@ -5,7 +5,7 @@ Saves minecraft coordinates in your discord server in a handy and simple way.
 
 ## Save
 Can save coordinates with the `/save` command. This will be stored to be later accessed with other commands.
-Users can also later delete commands if needed.
+Users can also later delete commands.
 
 ## Show
 
